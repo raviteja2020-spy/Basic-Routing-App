@@ -1,0 +1,10 @@
+.about-card {
+  display: flex;
+  height: 70vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.about-img {
+  height: 10rem;
+}

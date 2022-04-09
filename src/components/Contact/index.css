@@ -1,0 +1,13 @@
+.contact-card {
+  display: flex;
+  height: 70vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contact-img {
+  height: 10rem;
+}
+.heading {
+  color: #6d396b;
+}

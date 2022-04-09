@@ -1,0 +1,13 @@
+.home-card {
+  display: flex;
+  height: 70vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home-img {
+  height: 10rem;
+}
+.heading {
+  color: #6d396b;
+}
